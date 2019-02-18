@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550466102161.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1000911366",
+    "id" : "17C63A1E",
+    "lastKnownWriteTime" : 1550466338,
+    "last_content_update" : -2147483648,
+    "path" : "~/GitHub/bpdranka.github.io/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "70,15",
+        "scrollLine" : "36"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
